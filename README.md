@@ -1,12 +1,4 @@
-AndroidViewClient for Python ≥3.6
-=================
-
-**This is a Python 3.6 compatible fork of the original [_dtmilano's_ AndroidViewClient](https://github.com/dtmilano/AndroidViewClient) repository.**
-
-#### Why ≥3.6 instead of ≥ 3?
-I share my opinion with _Kenneth Reitz's_ (quoted on [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/starting/which-python/#recommendations)) and believe that Python 3 is the future. Moreover, Python versions 3.5 and 3.6 added many useful features to the language which I like and use frequently.
-
-I try to keep my code as PEP compatible, organized and clean as possible - thanks to [PyCharm](https://www.jetbrains.com/pycharm/) IDE for making all of this possible while making my life easier.
+This repository is archived as the original is in active development and supports Python 3.6+ from [9th Dec 2019](https://github.com/dtmilano/AndroidViewClient/releases/tag/v20.0.0b2).
 
 ##
 
